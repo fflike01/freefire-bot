@@ -26,7 +26,8 @@ TOKEN = os.environ.get("BOT_TOKEN", "8992369160:AAHmh4k6yNkjR_YtKH45p7Ni4P1mG5UA
 # Like API ka URL. Render > Environment mein LIKE_API_URL naam se daalo.
 # {uid} jahan UID aana hai wahan likho. Example:
 # https://example.com/like?uid={uid}
-LIKE_API_URL = os.environ.get("LIKE_API_URL", "")
+LIKE_API_URL = os.environ.get("LIKE_API_URL", "https://jsonplaceholder.typicode.com/posts
+")
 # ------------------------------------------
 
 # Chhota web server (Render free Web Service ke liye port chahiye)
