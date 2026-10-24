@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 
 # Apna Telegram Bot Token yahan single quotes me dalein
-TOKEN = TOKEN ='8992369160:AAHAoI5PrGlQjGq0F3L78n5ERxvDqdJ9vZ8'
+TOKEN ='8992369160:AAHAoI5PrGlQjGq0F3L78n5ERxvDqdJ9vZ8'
 
 
 # Command handler for /like
