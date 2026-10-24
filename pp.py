@@ -9,7 +9,8 @@ logging.basicConfig(
 )
 
 # Apna Telegram Bot Token yahan single quotes me dalein
-TOKEN = '8840230555:AAFY_AZt4nWES2r9LJGljPOjdQFLRf_Ll0'
+TOKEN = TOKEN = '8992369160:AAHAoI5PrGlQjGq0F3L78n5ERxvDqdJ9vZ8'
+
 
 # Command handler for /like
 async def like_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
