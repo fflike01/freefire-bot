@@ -21,7 +21,7 @@ logging.basicConfig(
 # ---------------- SETTINGS ----------------
 # Token yahan code mein MAT likho (repo public hai).
 # Render > Environment mein BOT_TOKEN naam se daalo.
-TOKEN = os.environ.get("BOT_TOKEN", "8992369160:AAHmh4k6yNkjR_YtKH45p7Ni4P1mG5UAO9s")
+TOKEN = os.environ.get("BOT_TOKEN", "8840230555:AAE588ET-noyUBnw-TaRwf-twUMxiuzQFtI")
 
 # Like API ka URL. Render > Environment mein LIKE_API_URL naam se daalo.
 # {uid} jahan UID aana hai wahan likho. Example:
